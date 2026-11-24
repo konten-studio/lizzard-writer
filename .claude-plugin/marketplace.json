@@ -1,0 +1,11 @@
+{
+  "name": "twist-kadal",
+  "owner": { "name": "Konten Studio", "url": "https://github.com/konten-studio" },
+  "plugins": [
+    {
+      "name": "twist-kadal",
+      "source": ".",
+      "description": "Lizard-brain content with a twist: danger or happy mode, then a surprisingly simple payoff."
+    }
+  ]
+}
