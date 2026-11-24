@@ -7,7 +7,7 @@ description: Use when someone gives a content brief (a source, idea, topic, prod
 
 Brief in. Reel script out, ready to shoot.
 
-"Lizard brain" is a shorthand, not a neuroscience claim. It stands for the fast gut check people make before they think: **"Am I in danger?"** or **"Is there an easy win here?"** A reel that hits one of those in the first second gets the scroll to stop. A reel that then pays off with something **smaller and simpler than expected** gets watched to the end, saved and shared. The target reaction:
+"Lizard brain" is a shorthand, not a neuroscience claim. It stands for the fast gut check people make before they think: **"Am I in danger?"** or **"Is there an easy win here?"** A reel that hits one of those in the first second gets the scroll to stop. A reel that then pays off with something **smaller and simpler than expected** tends to get watched to the end, saved and shared. The target reaction:
 
 > "Oh... hanya dengan begitu aja ternyata."
 

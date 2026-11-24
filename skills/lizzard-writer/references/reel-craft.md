@@ -7,7 +7,7 @@ How the voice-over is actually written. Studied from Indonesian explainer reels 
 | Beat | Time | What happens | Shape |
 |---|---|---|---|
 | 1. Scene | 0-8s | Drop the viewer **inside the bad moment**, present tense, second person | "[Person you love] lagi [situation]. Terus [authority] bilang, '[the scary line]'." |
-| 2. Stakes | 8-14s | Put a price on it: money, health, time, family. One concrete number | "[Option A] berarti [pain]. [Option B] bisa [cost]. Lo bingung." |
+| 2. Stakes | 8-14s | Put a price on it: money, health, time, family. One concrete number from the brief/source | "[Option A] berarti [pain]. [Option B] bisa [cost]. Lo bingung." |
 | 3. Padahal | 14-26s | Flip the belief. Name the source out loud | "Padahal [source] udah negesin, [the truth]." |
 | 4. Open loop | 26-32s | Promise **one small thing**, held to the end | "Dan ada satu [pertanyaan / kertas / angka / gerakan] yang [big effect]. Gue kasih tahu di akhir." |
 | 5. Steps | 32-60s | 3 numbered, physical actions | "Pertama, ... Kedua, ... Ketiga, ..." Each with a reason in one line |
@@ -36,7 +36,7 @@ The danger hook earns the stop. Four things keep them to the end and make them s
 - Present tense, second person in organic content ("lo/kamu/Bapak-Ibu" to fit the audience).
 - Spoken words, not written ones: "gak", "udah", "bilang", "nanggung".
 - Concrete nouns: a person ("ibu lo"), a place ("meja pengaduan"), a document ("surat pulang"), a number ("6 bulan", "165"). No "pola hidup sehat", no "berbagai faktor".
-- Quote the scary line as people actually say it ("jatah BPJS-nya cuma 3 hari, Pak").
+- Quote the scary line as people actually say it ("garansinya hangus kalau segelnya dibuka, Kak").
 - Name the source in the voice-over when there is one (regulation, official body, guideline). Put full references in the caption.
 - No intros, no "halo guys", no "di video kali ini". The first word is already the scene.
 
@@ -72,7 +72,7 @@ Sumber: [regulation / guideline / expert], one per line
 ## Pre-ship checklist
 
 - [ ] First line is a scene or a stake, not a greeting
-- [ ] A real number or named source appears before 20s
+- [ ] A real number from the brief/source, or a named source, appears before 20s
 - [ ] Open loop promises ONE small thing and the reel delivers it
 - [ ] 3 steps max, each a physical action
 - [ ] Danger ends in relief

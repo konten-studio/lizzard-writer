@@ -1,6 +1,6 @@
 {
   "name": "lizzard-writer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Brief in, reel script out: lizard-brain hook (danger or happy), then a surprisingly simple twist.",
   "author": { "name": "Konten Studio" },
   "skills": "./skills/",

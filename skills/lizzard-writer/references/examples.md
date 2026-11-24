@@ -28,7 +28,7 @@ Alt hooks: "Kerjaan udah kelar, duitnya belum masuk?" / "Klien ngaret bayar bias
 
 **Danger · Kebiasaan kecil**
 Hook: "5 kebiasaan kecil ini diam-diam bisa bikin sendi lutut lebih cepat aus."
-Payoff: duduk berjam-jam tanpa gerak, jarang gerak, otot paha yang lemah, olahraga yang tiba-tiba digenjot, langsung angkat beban tanpa pemanasan. "Ternyata cuma gitu, tapi tiap hari."
+Payoff: duduk berjam-jam tanpa gerak, jongkok atau bersimpuh lama, otot paha yang lemah, olahraga yang tiba-tiba digenjot, langsung angkat beban tanpa pemanasan. "Ternyata cuma gitu, tapi tiap hari."
 CTA: "Di webinar gratis minggu ini kita bahas cara benerinnya satu-satu. Link di bio."
 
 **Happy · Cukup ini aja**
