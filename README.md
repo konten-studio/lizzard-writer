@@ -1,4 +1,4 @@
-# Twist Kadal 🦎
+# Lizzard Writer 🦎
 
 **Konten yang bikin orang bilang: "Oh... hanya dengan begitu aja ternyata."**
 
@@ -13,7 +13,7 @@ Before the thinking brain wakes up, the lizard brain asks two questions:
 - 🚨 **Danger mode:** "Am I in trouble without knowing it?"
 - 😌 **Happy mode:** "Is there an easy way to get what I want?"
 
-Twist Kadal content opens on one of those, then pays off with something **much smaller and simpler than expected**. Big stake, small lever. That gap is the twist, and it's what keeps people watching to the end.
+Lizzard Writer content opens on one of those, then pays off with something **much smaller and simpler than expected**. Big stake, small lever. That gap is the twist, and it's what keeps people watching to the end.
 
 | Mode | Hook | Twist payoff |
 |---|---|---|
@@ -36,22 +36,22 @@ With a **truth contract**: the payoff must be real, no invented fear, no miracle
 **Claude Code (plugin)**
 
 ```
-/plugin marketplace add konten-studio/twist-kadal
-/plugin install twist-kadal@twist-kadal
+/plugin marketplace add konten-studio/lizzard-writer
+/plugin install lizzard-writer@lizzard-writer
 ```
 
 **Any agent (copy the skill folder)**
 
 ```bash
-git clone https://github.com/konten-studio/twist-kadal
-cp -r twist-kadal/skills/twist-kadal ~/.claude/skills/      # Claude Code
-cp -r twist-kadal/skills/twist-kadal ~/.codex/skills/       # Codex
+git clone https://github.com/konten-studio/lizzard-writer
+cp -r lizzard-writer/skills/lizzard-writer ~/.claude/skills/      # Claude Code
+cp -r lizzard-writer/skills/lizzard-writer ~/.codex/skills/       # Codex
 ```
 
 ## Use
 
 ```
-Pakai twist-kadal: bikin 10 ide konten buat kelas online bahasa Inggris, target karyawan 25-35, format Reels. CTA join kelas trial gratis.
+Pakai lizzard-writer: bikin 10 ide konten buat kelas online bahasa Inggris, target karyawan 25-35, format Reels. CTA join kelas trial gratis.
 ```
 
 ## Pairs well with

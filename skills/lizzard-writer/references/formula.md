@@ -1,4 +1,4 @@
-# Twist Kadal formula
+# Lizzard Writer formula
 
 ## Stake / lever grid
 

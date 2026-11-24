@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lizzard Writer"
+  short_description: "Danger/happy hook + a surprisingly simple, true payoff"
+  default_prompt: "Use $lizzard-writer to make 10 twist content ideas and 3 full scripts for this topic."

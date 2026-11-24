@@ -1,16 +1,16 @@
 ---
-name: twist-kadal
-description: Use when someone needs content ideas, hooks, short-video scripts, carousel or ad variations that stop the scroll by hitting the lizard brain (danger mode or happy mode) and pay off with a surprisingly simple twist ("oh, ternyata cuma gitu"). Triggers include "twist", "konten twist", "lizard brain", "otak kadal", "bikin konten yang bikin penasaran", "ide konten iklan", "angle iklan", "5 kebiasaan kecil", "cuma dengan ini aja", or a request for many content variations to test.
+name: lizzard-writer
+description: Use when someone needs content ideas, hooks, short-video scripts, carousel or ad variations that stop the scroll by hitting the lizard brain (danger mode or happy mode) and pay off with a surprisingly simple twist ("oh, ternyata cuma gitu"). Triggers include "lizzard writer", "twist", "konten twist", "lizard brain", "otak kadal", "bikin konten yang bikin penasaran", "ide konten iklan", "angle iklan", "5 kebiasaan kecil", "cuma dengan ini aja", or a request for many content variations to test.
 ---
 
-# Twist Kadal
+# Lizzard Writer
 
 "Lizard brain" here is a shorthand, not a neuroscience claim: it stands for the fast, gut-level check people make before they think things through. That check asks two things:
 
 1. **Danger mode:** "Is something hurting me without me knowing?"
 2. **Happy mode:** "Is there an easy way to get what I want?"
 
-Twist Kadal content opens in one of those two modes, then pays off with something **smaller and simpler than the audience expected**. The target reaction is:
+Lizzard Writer content opens in one of those two modes, then pays off with something **smaller and simpler than the audience expected**. The target reaction is:
 
 > "Oh... hanya dengan begitu aja ternyata."
 
