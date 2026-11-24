@@ -36,6 +36,8 @@ Pair them: the same stake makes a danger version and a happy version. Test both.
 
 Patterns 2 and 4 carry the most risk of overclaiming. Use only with solid evidence.
 
+Patterns 3 and 4 address the viewer as "kamu". That's fine for organic posts, but in paid ads "kamu" + a personal condition or symptom breaks ad policy. Rewrite ad copy in third person or general framing: "Banyak orang [common action] dengan cara yang salah", "[Small symptom] yang sering muncul bisa jadi tanda [stake]".
+
 ## Scoring (1-5 each, after the truth gate)
 
 - **Stake:** does the audience feel it in the gut within 3 seconds?

@@ -5,7 +5,7 @@ description: Use when someone needs content ideas, hooks, short-video scripts, c
 
 # Twist Kadal
 
-The lizard brain only checks two things before the thinking brain wakes up:
+"Lizard brain" here is a shorthand, not a neuroscience claim: it stands for the fast, gut-level check people make before they think things through. That check asks two things:
 
 1. **Danger mode:** "Is something hurting me without me knowing?"
 2. **Happy mode:** "Is there an easy way to get what I want?"
@@ -14,7 +14,7 @@ Twist Kadal content opens in one of those two modes, then pays off with somethin
 
 > "Oh... hanya dengan begitu aja ternyata."
 
-The surprise of "it's that simple" is the twist. It keeps people watching to the end, makes them save or share, and makes the next step (follow, join, click) feel easy.
+The surprise of "it's that simple" is the twist. It tends to raise watch time, saves and shares, and makes the next step (follow, join, click) feel easy.
 
 ## The formula
 
@@ -23,9 +23,9 @@ TRIGGER (danger / happy)  →  SMALL CAUSE or SMALL ACTION  →  "ternyata cuma 
 ```
 
 - **Danger twist:** a big fear, caused by something tiny and everyday.
-  "5 kebiasaan kecil ini ternyata bikin sendi kamu cepat rusak." Payoff: the habits are ordinary (duduk terlalu lama, salah posisi tidur...).
+  "5 kebiasaan kecil ini ternyata bisa bikin sendi lutut lebih cepat aus." Payoff: the habits are ordinary (duduk berjam-jam tanpa gerak, langsung olahraga berat tanpa pemanasan...).
 - **Happy twist:** a big win, unlocked by something tiny and doable today.
-  "Cukup gerakan 2 menit ini aja, lutut kamu kerasa lebih enteng." Payoff: one simple move, shown on screen.
+  "Cukup gerakan 2 menit ini aja, lutut kerasa lebih enteng." Payoff: one simple move, shown on screen.
 
 The contrast between **big stake** and **small lever** is the engine. Big stake + big lever = boring. Small stake + small lever = nobody cares.
 
@@ -52,7 +52,7 @@ If the user asks for a claim that breaks this, refuse that one claim in a senten
 5. **Score and cut.** Score each on Stake, Smallness, Surprise, Proof, Path-to-CTA (see `formula.md`). Truth is a gate, not a score: fail = drop or repair.
 6. **Script the top 3** (or what the user asked for) in the requested format. Default short-video shape:
    - 0-3s: hook (mode trigger, big stake)
-   - 3-10s: open loop ("dan kebanyakan orang nggak sadar...")
+   - 3-10s: open loop ("dan banyak orang nggak sadar...")
    - body: reveal the small levers one by one, show don't tell
    - payoff line: the "ternyata cuma gitu" moment, said plainly
    - CTA: one next step that matches the payoff (join, download, follow for part 2)
