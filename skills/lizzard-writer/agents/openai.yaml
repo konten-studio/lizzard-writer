@@ -1,4 +1,4 @@
 interface:
   display_name: "Lizzard Writer"
-  short_description: "Danger/happy hook + a surprisingly simple, true payoff"
-  default_prompt: "Use $lizzard-writer to make 10 twist content ideas and 3 full scripts for this topic."
+  short_description: "Brief in, shoot-ready reel script out (danger/happy hook + simple twist)"
+  default_prompt: "Use $lizzard-writer to turn this brief into a reel script ready to shoot."

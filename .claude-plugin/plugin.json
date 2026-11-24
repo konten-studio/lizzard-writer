@@ -1,9 +1,9 @@
 {
   "name": "lizzard-writer",
   "version": "0.2.0",
-  "description": "Lizard-brain content with a twist: danger or happy mode up front, a surprisingly simple payoff that makes people say \"oh, ternyata cuma gitu\".",
+  "description": "Brief in, reel script out. Lizard-brain hook (danger or happy mode) and a surprisingly simple, true twist that makes people say \"oh, hanya dengan begitu aja ternyata\".",
   "author": { "name": "Konten Studio" },
   "repository": "https://github.com/konten-studio/lizzard-writer",
   "license": "MIT",
-  "keywords": ["content", "hooks", "short-video", "ads", "indonesian", "lizard-brain", "agent-skill", "claude-skill"]
+  "keywords": ["content", "reels", "short-video", "script", "hooks", "indonesian", "lizard-brain", "agent-skill", "claude-skill"]
 }

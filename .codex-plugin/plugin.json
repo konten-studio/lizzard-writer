@@ -1,16 +1,16 @@
 {
   "name": "lizzard-writer",
   "version": "0.2.0",
-  "description": "Lizard-brain content with a twist: danger or happy mode, then a surprisingly simple payoff.",
+  "description": "Brief in, reel script out: lizard-brain hook (danger or happy), then a surprisingly simple twist.",
   "author": { "name": "Konten Studio" },
   "skills": "./skills/",
   "interface": {
     "displayName": "Lizzard Writer",
-    "shortDescription": "Danger/happy hook + \"ternyata cuma gitu\" twist.",
-    "longDescription": "Turns a topic, product, or offer into short-form content ideas and scripts that hit the lizard brain (danger mode or happy mode) and pay off with a small, true, surprisingly simple answer. Built for batch testing: many variants, keep the winners.",
+    "shortDescription": "Brief in, shoot-ready reel script out.",
+    "longDescription": "Turns a content brief (source, idea, topic, product) into a reel script that is ready to shoot: a danger-mode or happy-mode hook, an open loop, small concrete levers, and a true 'ternyata cuma gitu' twist. Timed beat table, on-screen text, voice-over block, caption and alt hooks for testing.",
     "developerName": "Konten Studio",
     "category": "Productivity",
     "capabilities": ["Write"],
-    "defaultPrompt": ["Make 10 lizzard-writer content ideas for this topic."]
+    "defaultPrompt": ["Write a reel script with lizzard-writer from this brief."]
   }
 }

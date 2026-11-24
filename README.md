@@ -1,63 +1,148 @@
-# Lizzard Writer 🦎
+<div align="center">
 
-**Konten yang bikin orang bilang: "Oh... hanya dengan begitu aja ternyata."**
+# 🦎 Lizzard Writer
 
-An agent skill by [Konten Studio](https://github.com/konten-studio) for Claude Code, Codex, and any agent that reads `SKILL.md`.
+### Brief in. Reel script out, ready to shoot.
+
+**Konten yang bikin orang berhenti scroll, nonton sampai habis, lalu bilang:**
+*"Oh... hanya dengan begitu aja ternyata."*
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-D97757)
+![Codex](https://img.shields.io/badge/Codex-skill-000000)
+![Bahasa](https://img.shields.io/badge/bahasa-ID%20%2B%20EN-blue)
+
+An agent skill by [Konten Studio](https://github.com/konten-studio)
+
+</div>
 
 ---
 
-## The idea
+## 🦎 Why "Lizzard"?
+
+Picture a lizard on a warm rock.
+
+A shadow passes overhead. It's gone before it has "decided" anything. 🚨
+A fly lands nearby. It turns, still, locked on. 😌
+
+That's the whole operating system: **is this going to hurt me, or is this something I want?** No reading, no weighing pros and cons. Just a reaction in a fraction of a second.
+
+Copywriters call that fast, gut-level check the **lizard brain** (*otak kadal*). It's a shorthand from the old "three brains" model, not a precise neuroscience claim, but it describes something every creator has seen: in the first second of a reel, your viewer isn't thinking yet. Their thumb is the lizard on the rock. It only stops for **danger** or **desire**.
+
+So a Lizzard Writer script does two things, in order:
+
+1. **Talk to the lizard first.** Open on a real risk ("5 kebiasaan kecil ini ternyata bisa bikin sendi lebih cepat aus") or a real want ("cukup 2 menit ini aja..."). The thumb stops.
+2. **Then hand it to the thinking brain with a twist.** The cause, or the fix, turns out to be something small and everyday. The viewer relaxes, the thinking brain catches up, and they say:
+
+> *"Oh... hanya dengan begitu aja ternyata."*
+
+The scare (or the promise) earns the stop. The small, true twist is what keeps them watching to the end. A lizard that gets scared and never gets relief just scrolls away, which is why every danger script here ends in relief.
+
+---
+
+## 🧠 The idea
 
 Before the thinking brain wakes up, the lizard brain asks two questions:
 
-- 🚨 **Danger mode:** "Am I in trouble without knowing it?"
-- 😌 **Happy mode:** "Is there an easy way to get what I want?"
+| | Mode | The gut question | The twist |
+|---|---|---|---|
+| 🚨 | **Danger** | "Am I in trouble without knowing it?" | The cause is something you did this morning |
+| 😌 | **Happy** | "Is there an easy way to get what I want?" | The fix is one small thing you can do today |
 
-Lizzard Writer content opens on one of those, then pays off with something **much smaller and simpler than expected**. Big stake, small lever. That gap is the twist, and it's what keeps people watching to the end.
+Open on one of those. Pay off with something **much smaller and simpler than expected**.
+Big stake, small lever. That gap is the twist, and it's what keeps people watching to the last second.
 
-| Mode | Hook | Twist payoff |
-|---|---|---|
-| Danger | "5 kebiasaan kecil ini diam-diam bikin lutut cepat aus" | Habits you did this morning |
-| Happy | "Cukup gerakan 2 menit ini, lutut kerasa lebih enteng" | One simple move, shown on screen |
 
-## What it does
+---
 
-Give it a topic, product, or offer and an audience. It returns:
+## 🎬 What you get
 
-1. The audience's real fears and desires
-2. 10 twist ideas (danger + happy, 8 patterns), each with its "ternyata cuma gitu" payoff
-3. Scores, then full scripts for the top 3 (short video by default)
-4. A batch test plan: post many, keep the winners, promote only those
+Give it a **brief**: a source, an idea, a topic, a product. It hands back a reel you can shoot today.
 
-With a **truth contract**: the payoff must be real, no invented fear, no miracle cures, ad-policy-safe wording for paid ads.
+```
+HOOK (danger / happy)  →  OPEN LOOP  →  SMALL LEVERS  →  TWIST  →  RELIEF + CTA
+```
 
-## Install
+| You give | You get |
+|---|---|
+| Topic, product or source | 5 scored angles (danger + happy) |
+| Audience | A timed beat table: seconds · visual · on-screen text · voice-over |
+| Platform + length (optional) | A clean voice-over block for the teleprompter |
+| CTA (optional) | Caption, cover text, 3 alt hooks to A/B test |
 
-**Claude Code (plugin)**
+---
+
+## 🛡️ Truth contract
+
+Lizard-brain content is easy to abuse. This skill won't.
+
+- ✅ The twist is **true** and the reel **shows** it
+- ✅ Danger always ends in **relief**
+- ❌ No invented fear, no unsourced stats
+- ❌ No miracle cures ("membantu", never "menyembuhkan")
+- ❌ No "kamu" + personal condition in paid ads
+
+---
+
+## ⚡ Install
+
+**Claude Code**
 
 ```
 /plugin marketplace add konten-studio/lizzard-writer
 /plugin install lizzard-writer@lizzard-writer
 ```
 
-**Any agent (copy the skill folder)**
+**Codex, or any agent that reads `SKILL.md`**
 
 ```bash
 git clone https://github.com/konten-studio/lizzard-writer
-cp -r lizzard-writer/skills/lizzard-writer ~/.claude/skills/      # Claude Code
-cp -r lizzard-writer/skills/lizzard-writer ~/.codex/skills/       # Codex
+cp -r lizzard-writer/skills/lizzard-writer ~/.claude/skills/   # Claude Code
+cp -r lizzard-writer/skills/lizzard-writer ~/.codex/skills/    # Codex
 ```
 
-## Use
+---
+
+## ✍️ Use
 
 ```
-Pakai lizzard-writer: bikin 10 ide konten buat kelas online bahasa Inggris, target karyawan 25-35, format Reels. CTA join kelas trial gratis.
+Pakai lizzard-writer. Brief: kelas online bahasa Inggris buat karyawan 25-35
+yang takut presentasi pakai English. Reels 35 detik. CTA: join kelas trial gratis.
 ```
 
-## Pairs well with
+```
+Pakai lizzard-writer. Sumber: [paste artikel / transkrip / catatan].
+Target ibu-ibu 40+. Bikin 3 script, 1 danger 2 happy.
+```
 
-[`jekardah-writer`](https://github.com/konten-studio/jekardah-writer): `hook-gokil` to sharpen the hook, `no-ai-slop` to clean the script.
+---
 
-## License
+## 📚 Inside
 
-MIT © Konten Studio
+| File | What's in it |
+|---|---|
+| [`SKILL.md`](skills/lizzard-writer/SKILL.md) | The engine, truth contract, workflow, output format |
+| [`references/formula.md`](skills/lizzard-writer/references/formula.md) | Stake/lever grid, 8 twist patterns, scoring, batch testing |
+| [`references/reel-craft.md`](skills/lizzard-writer/references/reel-craft.md) | How the voice-over is written: beats, rhythm, on-screen text, checklist |
+| [`references/examples.md`](skills/lizzard-writer/references/examples.md) | Full reel scripts + unsafe → safe repairs |
+
+---
+
+## 🧪 Test like a media buyer
+
+1. Write 10-20 variants. Same stake, danger vs happy.
+2. Post organic first. Read 3-second hold, watch %, saves, shares.
+3. Keep the top 20%. Put ad budget only behind those.
+4. Make 3-5 new hooks for each winner.
+
+---
+
+## 🤝 Pairs well with
+
+[`jekardah-writer`](https://github.com/konten-studio/jekardah-writer): `hook-gokil` to sharpen the hook, `no-ai-slop` to clean the voice-over.
+
+<div align="center">
+
+MIT © [Konten Studio](https://github.com/konten-studio) · formerly `twist-kadal`
+
+</div>
