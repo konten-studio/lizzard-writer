@@ -32,7 +32,7 @@ The twist only works long-term if the payoff is real.
 2. **No invented fear.** Danger mode names a real risk. `bisa` ≠ `pasti`, `memperburuk` ≠ `menyebabkan`.
 3. **No miracle cures.** In health, money and legal niches the small action is a *helpful step*, not a cure. Products are "membantu", never "menyembuhkan". Add "cek ke dokter/ahli" when stakes are real.
 4. **Keep the source's claim ceiling.** No unsourced statistics. Don't upgrade anecdote to science.
-5. **Paid ads:** avoid "kamu" + a personal condition ("Kamu kena diabetes?"). Use third person or general framing ("Banyak penderita diabetes...").
+5. **Paid ads:** avoid "kamu" + a personal condition ("Kamu kena asam urat?"). Use third person or general framing ("Banyak orang di atas 40...").
 6. **Danger always ends in relief.** Never leave the viewer only scared.
 
 If the brief asks for a claim that breaks this, refuse that one claim in a sentence and write the strongest true version.

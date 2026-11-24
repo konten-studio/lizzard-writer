@@ -72,6 +72,44 @@ HOOK (danger / happy)  →  OPEN LOOP  →  SMALL LEVERS  →  TWIST  →  RELIE
 
 ---
 
+## 🔁 Before / after
+
+Same brief: an online English class for office workers who freeze when they have to present in English.
+
+**Before** (a normal promo reel)
+> "Mau jago presentasi pakai bahasa Inggris? Yuk join kelas kami! Materi lengkap, mentor berpengalaman, jadwal fleksibel."
+
+**After** (Lizzard Writer, happy mode)
+> "Presentasi pakai English nggak harus nunggu grammar lo sempurna. Ada satu kalimat pembuka yang bikin lo langsung kedengeran siap. Gue kasih tahu di akhir."
+
+The first one asks for attention. The second one earns it: a want in the first second, a promise of one small thing, and a payoff the reel actually delivers.
+
+---
+
+## 🧾 Sample output
+
+Shortened. A real run also gives 5 scored angles first and the voice-over as one clean block.
+
+```
+ANGLE: HAPPY · one small line
+AUDIENCE: karyawan 25-35, takut presentasi pakai English
+LENGTH: ~35s · 9:16
+
+| Detik | Visual / B-roll              | Teks di layar              | Voice over                                                         |
+|-------|------------------------------|----------------------------|--------------------------------------------------------------------|
+| 0-3   | Laptop, slide pertama kebuka | Takut presentasi English?  | Presentasi pakai English nggak harus nunggu grammar lo sempurna.   |
+| 3-7   | Ikon gembok di pojok layar   | 1 kalimat. Di akhir. 🔒    | Ada satu kalimat pembuka yang bikin lo kedengeran siap.            |
+| 7-25  | Tiga kartu catatan           | 1. Pelan 2. Jeda 3. Senyum | Pertama, ngomong lebih pelan dari biasanya...                      |
+| 25-31 | Gembok kebuka                | "Let me walk you through…" | Kalimat yang tadi: "Let me walk you through this."                 |
+| 31-35 | Muka lega, tutup laptop      | Coba besok pagi            | Simpan video ini, coba di meeting lo berikutnya.                   |
+
+CAPTION: Satu kalimat ini bikin presentasi English kerasa lebih ringan. Simpan buat meeting berikutnya.
+COVER TEXT: 1 kalimat pembuka presentasi
+ALT HOOKS: 3 more first lines to test
+```
+
+---
+
 ## 🛡️ Truth contract
 
 Lizard-brain content is easy to abuse. This skill won't.
@@ -143,6 +181,7 @@ Target ibu-ibu 40+. Bikin 3 script, 1 danger 2 happy.
 
 <div align="center">
 
-MIT © [Konten Studio](https://github.com/konten-studio) · formerly `twist-kadal`
+MIT © [Konten Studio](https://github.com/konten-studio) · formerly `twist-kadal`<br>
+Method by [Bahni](https://github.com/bahni-m) · reel craft studied from Indonesian explainer reels (patterns only, no one's words copied)
 
 </div>
