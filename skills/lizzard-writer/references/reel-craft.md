@@ -16,6 +16,15 @@ How the voice-over is actually written. Studied from Indonesian explainer reels 
 
 **30-45s version:** Scene+Stakes (0-7s) → Padahal (7-12s) → Open loop (12-15s) → 2-3 levers fast → Twist → CTA. Or the list format: "N kebiasaan kecil ini..." with the last item held as the twist ("dan nomor 5 yang paling sering").
 
+## What actually holds the viewer
+
+The danger hook earns the stop. Four things keep them to the end and make them share:
+
+1. **A named open loop with a promised payoff time.** "Gue kasih tahu di akhir." Show a lock on screen, unlock it at the payoff (~70-78% through).
+2. **Two twists, not one.** An early relief reframe ("Padahal, aturannya di pihak lo") and the late "one small thing".
+3. **Injustice → ammo.** When someone with authority says something wrong, hand the viewer the exact words to push back. Anger turned into "now I can fight back" spreads further than fear alone.
+4. **Receipts on screen.** Show the clause, the guideline, the dated source. That's what makes a reel safe to forward to the family WhatsApp group.
+
 ## Danger vs happy
 
 - **Danger** is the default for this format: a scene the viewer fears being in, then relief. Every danger reel must end with what to do.
